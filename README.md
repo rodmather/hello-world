@@ -1,10 +1,17 @@
-# hello world
+# Hello World
 
-a simple website
+a simple but interesting website
 
 *Rod Mather*
 
-**bold**
+:::{figure} 2019-01-18 21.50.02.png
+:label: Lighthouse
+: alt: this is an image of a lighthouse
 
-*adding some new text*
-***3 asterisks creates bold + italic***
+Image of a Lighthouse
+::::
+
+[](#Lighthouse) represents a historic lighthouse.
+
+
+In @huang2023mlagentbench they did great work.
